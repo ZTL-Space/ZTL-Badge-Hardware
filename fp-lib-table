@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1088BS")(type "KiCad")(uri "${KIPRJMOD}/1088BS.pretty")(options "")(descr ""))
+  (lib (name "C_Disc_D3_P5")(type "KiCad")(uri "${KIPRJMOD}/C_Disc_D3_P5.pretty")(options "")(descr ""))
+  (lib (name "ESP101")(type "KiCad")(uri "${KIPRJMOD}/ESP101.pretty")(options "")(descr ""))
+  (lib (name "Knopfzellenclip")(type "KiCad")(uri "${KIPRJMOD}/Knopfzellenclip.pretty")(options "")(descr ""))
+  (lib (name "Kurzhubtaster")(type "KiCad")(uri "${KIPRJMOD}/Kurzhubtaster.pretty")(options "")(descr ""))
+)
